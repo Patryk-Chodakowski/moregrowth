@@ -1,4 +1,8 @@
 .App {
+  overflow-x: hidden;
+}
+
+.AppContent {
   text-align: center;
   max-width: 1440px;
   margin: auto;

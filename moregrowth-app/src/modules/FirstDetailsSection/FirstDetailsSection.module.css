@@ -1,0 +1,107 @@
+.first-details-section {
+  display: inline-block;
+}
+
+.container {
+  position: relative;
+  height: 742px;
+}
+
+.textBox {
+  max-width: 539px;
+  position: absolute;
+  top: 160px;
+  left: 194px;
+  text-align: left;
+}
+
+.header {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 48px;
+  color: #454E54;
+}
+
+.text {
+  /* Body */
+  height: 140px;
+  margin-top: 16px;
+
+/* Regular 18 */
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+/* or 167% */
+
+/* Colour/Main/Blue/500 */
+  color: #5D6970;
+}
+
+.cardGroup {
+  position: relative;
+  top: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cardContainer {
+  position: relative;
+  display: inline-block;
+  max-width: 255px;
+}
+
+.cardContainer:not(:first-child){
+  margin-left: 30px;
+}
+
+.cardHeader{
+  height: 26px;
+  left: 0px;
+  right: 0px;
+  top: 50px;
+  
+  /* Medium 16 */
+  
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  /* identical to box height, or 162% */
+  
+  
+  /* Colour/Main/Grey/700 */
+  
+  color: #454E54;
+}
+
+.cardDescription {
+  height: 54px;
+  top: 82px;
+
+  /* Regular 12 */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  /* or 150% */
+
+
+  /* Colour/Main/Grey/600 */
+
+  color: #5D6970;
+}
+
+.mobileIcon img {
+  position: absolute;
+  left: 53.06%;
+  right: 9.44%;
+  top: 109px;
+  bottom: 108px;
+}

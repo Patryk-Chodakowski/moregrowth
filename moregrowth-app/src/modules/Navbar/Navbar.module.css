@@ -1,0 +1,61 @@
+.navbar {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 60px;
+  z-index: 5;
+}
+
+.container { 
+  max-width: 1440px;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
+.container > div {
+  flex: 2;
+  display: flex;
+  justify-content: center;
+}
+
+.container .logo {
+  flex: 1;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 38px;
+  /* identical to box height, or 146% */
+
+
+  /* Colour/Logo/Primary */
+
+  color: #37447E;
+}
+
+.navigationTabs {
+  gap: 60px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  /* identical to box height, or 171% */
+
+
+  /* Colour/Main/Blue/500 */
+
+  color: #505F98;
+}
+
+.tab:hover {
+  box-shadow: inset 0 0 0 2em  rgba(255, 255, 255, 0.5);
+}
+
+.buyButton {
+  padding: 0;
+  width: 160px;
+  height: 26px;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+}
