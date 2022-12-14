@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/moregrowth/static/css/main.91861cc0.css",
-    "main.js": "/moregrowth/static/js/main.3945d4ba.js",
+    "main.css": "/moregrowth/static/css/main.f52b6e44.css",
+    "main.js": "/moregrowth/static/js/main.62ea68a9.js",
     "static/js/787.e5e73dfe.chunk.js": "/moregrowth/static/js/787.e5e73dfe.chunk.js",
     "static/media/Hero.svg": "/moregrowth/static/media/Hero.10b381c042509645ff94fde78a683c13.svg",
     "index.html": "/moregrowth/index.html",
     "static/media/price.svg": "/moregrowth/static/media/price.8ddaa4b0f25e2faaf33f4693b1b0f78c.svg",
-    "main.91861cc0.css.map": "/moregrowth/static/css/main.91861cc0.css.map",
-    "main.3945d4ba.js.map": "/moregrowth/static/js/main.3945d4ba.js.map",
+    "main.f52b6e44.css.map": "/moregrowth/static/css/main.f52b6e44.css.map",
+    "main.62ea68a9.js.map": "/moregrowth/static/js/main.62ea68a9.js.map",
     "787.e5e73dfe.chunk.js.map": "/moregrowth/static/js/787.e5e73dfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91861cc0.css",
-    "static/js/main.3945d4ba.js"
+    "static/css/main.f52b6e44.css",
+    "static/js/main.62ea68a9.js"
   ]
 }
