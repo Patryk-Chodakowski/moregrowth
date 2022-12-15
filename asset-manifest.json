@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/moregrowth/static/css/main.5d3a2cb1.css",
+    "main.css": "/moregrowth/static/css/main.d5411d93.css",
     "main.js": "/moregrowth/static/js/main.37198ce1.js",
     "static/js/787.e5e73dfe.chunk.js": "/moregrowth/static/js/787.e5e73dfe.chunk.js",
     "static/media/Hero.svg": "/moregrowth/static/media/Hero.10b381c042509645ff94fde78a683c13.svg",
@@ -14,12 +14,12 @@
     "index.html": "/moregrowth/index.html",
     "static/media/facebook.svg": "/moregrowth/static/media/facebook.91684d98071a1ae6db4933f589f061c0.svg",
     "static/media/price.svg": "/moregrowth/static/media/price.8ddaa4b0f25e2faaf33f4693b1b0f78c.svg",
-    "main.5d3a2cb1.css.map": "/moregrowth/static/css/main.5d3a2cb1.css.map",
+    "main.d5411d93.css.map": "/moregrowth/static/css/main.d5411d93.css.map",
     "main.37198ce1.js.map": "/moregrowth/static/js/main.37198ce1.js.map",
     "787.e5e73dfe.chunk.js.map": "/moregrowth/static/js/787.e5e73dfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d3a2cb1.css",
+    "static/css/main.d5411d93.css",
     "static/js/main.37198ce1.js"
   ]
 }
