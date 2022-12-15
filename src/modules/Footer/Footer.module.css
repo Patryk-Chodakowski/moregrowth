@@ -64,10 +64,9 @@
 .navigationTabs {
   display: flex;
   color: #929ECC;
-  gap: 60px
 }
 
-.navigationTabs .tab { 
+.tab { 
   padding: 0;
 }
 

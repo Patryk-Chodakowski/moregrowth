@@ -3,10 +3,7 @@
   font-size: 14px;
   line-height: 24px;
   color: #505F98;
-}
-
-.tab { 
-  padding: 18px 30px;
+  gap: 60px;
 }
 
 .tab:hover {
