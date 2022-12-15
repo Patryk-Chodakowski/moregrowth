@@ -1,0 +1,15 @@
+.navigationTabs {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #505F98;
+}
+
+.tab { 
+  padding: 18px 30px;
+}
+
+.tab:hover {
+  background: rgb(0 0 0 / 20%);
+  cursor: pointer;
+}

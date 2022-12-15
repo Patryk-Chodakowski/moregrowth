@@ -42,7 +42,9 @@ function LandingPage() {
         {renderDescription()}
         {renderButtonGroup()}
       </div>
-      <div className={styles.hero}><HeroLogo/></div>
+      <div className={styles.hero}>
+        <HeroLogo/>
+      </div>
     </div>
   );
 }
